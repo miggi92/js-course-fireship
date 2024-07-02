@@ -1,2 +1,4 @@
-# js-course-fireship
-Fireship.io JS course
+# Fireship.io JS course
+
+> Java script course on fireship.io
+
