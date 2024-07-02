@@ -1,12 +1,16 @@
 {
-    "name": "js-course-fireship",
-    "version": "1.0.0",
-    "description": "A course on JavaScript from fireship.io",
-   "author": {
+  "name": "js-course-fireship",
+  "version": "1.0.0",
+  "description": "A course on JavaScript from fireship.io",
+  "author": {
     "url": "https://github.com/miggi92",
     "name": "miggi92"
-   } ,
-   "scripts": {
-        "run:sum": "node algorithms/cumulativeSum.js"
-   }
+  },
+  "scripts": {
+    "run:sum": "node algorithms/cumulativeSum.js"
+  },
+  "packageManager": "bun@1.1.13",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
 }
